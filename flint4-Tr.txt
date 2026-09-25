@@ -1,4 +1,4 @@
-
+cloudfront.net
 primevideo.com
 amazon.com
 aiv-cdn.net
@@ -13,7 +13,6 @@ atv-ps-eu.amazon.co.uk
 atv-ps-fe.amazon.co.jp
 atv-ps-fe.amazon.com
 m.media-amazon.com
-cloudfront.net
 llnwd.net
 spotify.com
 *.spotify.com
